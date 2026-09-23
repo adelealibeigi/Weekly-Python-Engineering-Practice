@@ -3,7 +3,6 @@
 An eight-week hands-on journey to deepen Python backend engineering skills through practical experimentation, testing, and measurable results.
 
 This repository contains one evolving codebase built throughout the eight weeks. 
-## Goals
 
 ## Weekly Progress
 

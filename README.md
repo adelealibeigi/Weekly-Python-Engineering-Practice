@@ -15,10 +15,6 @@ This repository contains one evolving codebase built throughout the eight weeks.
 * [ ] Week 7
 * [ ] Week 8
 
-## Engineering Log
-
-See [`ENGINEERING_LOG.md`](ENGINEERING_LOG.md) for weekly notes, experiments, surprises, bugs, measurements, and questions I still cannot fully explain.
-
 ## Core Rules
 
 * Every week's work must run.
